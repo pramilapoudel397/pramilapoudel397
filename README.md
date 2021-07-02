@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pramilapoudel397
 - 👀 I’m interested in Mobile app development
-- 🌱 I’m currently working in Flutter Mobile App development
+- 🌱 I’m currently working as a Junior Flutter developer
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
